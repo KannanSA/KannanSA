@@ -3,7 +3,9 @@
 # Kannan Sekar
 **Kannan S A** · `sakannan`
 
-<img src="assets/pong.svg" alt="Animated Pong rally across a GitHub contribution graph" width="100%" />
+<a href="https://www.sakannan.com/pong"><img src="assets/pong.svg" alt="Animated Pong rally across a GitHub contribution graph" width="100%" /></a>
+
+▶ [Play Contribution Pong live on sakannan.com/pong](https://www.sakannan.com/pong)
 
 Kannan Sekar (Kannan Sekar Annu Radha, also known as Kannan S A and sakannan) is a London-based software engineer and physics student at King's College London, and the founder and director of Kannan Industrials Ltd. He builds websites and healthcare software for London businesses and the NHS, and develops independent iOS and Apple Watch apps.
 
